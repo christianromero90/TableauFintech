@@ -14,6 +14,7 @@ World Bank Economic Indicators
 
 [Tableau Profile](https://public.tableau.com/profile/christian.romero1178#!/vizhome/TableauAnalysisFintechLatinAmerica/StoryFintech)
 
+<a href="https://public.tableau.com/profile/christian.romero1178#!/vizhome/TableauAnalysisFintechLatinAmerica/StoryFintech" target="_top">Download Page</a>
 
 ```
 

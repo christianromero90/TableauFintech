@@ -12,7 +12,7 @@ World Bank Economic Indicators
 ```markdown
 ## Link to Tableau public profile
 
-[Tableau public profile](https://public.tableau.com/profile/christian.romero1178#!/vizhome/TableauAnalysisFintechLatinAmerica/StoryFintech)
+[https://public.tableau.com/profile/christian.romero1178#!/vizhome/TableauAnalysisFintechLatinAmerica/StoryFintech](Tableau profile)
 
 
 ```
